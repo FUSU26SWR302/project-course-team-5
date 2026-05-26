@@ -1,3 +1,6 @@
+
+Link jira : https://tranhoangkt70.atlassian.net/jira/software/projects/SCRUM/boards/1
+
 HỆ THỐNG ĐẶT VÉ THAM QUAN DU LỊCH
 
 1. Hệ thống này TẬP TRUNG vào cái gì? (Core Focus)
