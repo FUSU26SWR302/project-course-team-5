@@ -2,6 +2,8 @@ Link jira : https://tranhoangkt70.atlassian.net/jira/software/projects/SCRUM/boa
 
 link GitHub: https://github.com/SUMMER2026SE/swp391-rbl-project-team\_5
 
+link database : https://dbdiagram.io/d/VietTicket\_Traver\_Ver2-6a1d10b5f15b4b0452412dd3
+
 HỆ THỐNG ĐẶT VÉ THAM QUAN DU LỊCH
 
 1. Hệ thống này TẬP TRUNG vào cái gì? (Core Focus)
